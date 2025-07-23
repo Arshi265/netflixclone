@@ -24,7 +24,7 @@ A simple Netflix clone created using HTML and CSS. This project mimics the landi
 
 
 
-**Live Demo:** [https://arshinclone.netlify.app/)
+**Live Demo:** [https://webseriespage.netlify.app/]
 
 
 
